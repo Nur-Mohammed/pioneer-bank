@@ -1,0 +1,55 @@
+#section1 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#section1 h1 {
+    color: #3ec05a;
+    margin-bottom: 2rem;
+}
+
+#section1 input {
+    border-radius: 1rem;
+    padding: 1.5rem;
+}
+
+#section1 .area1 {
+
+    padding: 4rem;
+    box-shadow: 5px 5px 20px lightgray;
+    border-radius: 1rem;
+}
+
+#wrapper2 {
+    margin-top: 3rem;
+    display: none;
+}
+
+#wrapper2 .comon1 {
+    padding: 3rem;
+    color: #fff;
+    background: tomato;
+    border-radius: 1rem;
+
+}
+
+#wrapper2 .deposite {
+    background-color: turquoise;
+}
+
+#wrapper2 .withdraw {
+    background-color: tomato;
+}
+
+#wrapper2 .balance {
+    background-color: #EF9D23;
+}
+
+#wrapper3 .common2 {
+    margin-top: 3rem;
+    padding: 3rem;
+    border-radius: 2rem;
+    box-shadow: 5px 5px 20px lightgray;
+}
